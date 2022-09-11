@@ -1,4 +1,5 @@
 # CMPT 353 Project Group JBJ
+#### This Project has been transferred from the repository at SFU GitLab. This project was done in a collaborative effort - in the report PDF please note the contributions at the end of the document.
 
 ### Team Members
 - Jeremy Lee, jwl45, 301308486
